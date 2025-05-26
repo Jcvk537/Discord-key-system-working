@@ -14,7 +14,7 @@ OrionLib:MakeNotification({
 	Time = 3
 })
 
-_G.Key = "LION4ZP"
+_G.Key = "8814"
 _G.KeyInput = ""
 
 -- Quando la chiave è corretta, carica lo script principale
